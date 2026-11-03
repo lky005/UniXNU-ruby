@@ -236,7 +236,7 @@ configuration = ["The diagnostic path is read-only; it does not write PMIC, rail
 procedure = ["Boot the 0155 image; run the 19-command read-only probe over the USB console; decode the SWEETLOG ring with tools/sweetlog/decode.py."]
 findings = ["Public STATUS records 19/19 probe commands, 8/8 I2C5 arbiter, six snapshots and no panic."]
 completion = ["The probe completes read-only and the log decoder recovers the console ring."]
-limits = ["The two pwrap reads are blocked by the pwrap init gap; the probe stays read-only."]
+limits = ["The probe is read-only; it does not provide charger control, PMIC writes or a complete peripheral inventory."]
 next_action = ["Keep the diagnostic path read-only; add EINT status only after the 0160 gate is public."]
 [[area.evidence]]
 kind = "device"
