@@ -7,7 +7,7 @@ schema_version = 2
 name = "ruby"
 soc = "MT6877"
 os_profile = "ios-16.7.16-20H392"
-description = "Xiaomi Redmi Note 12 Pro 5G (ruby, MediaTek Dimensity 900 / MT6877)"
+description = "Xiaomi Redmi Note 12 Pro 5G (ruby, MediaTek Dimensity 1080 / MT6877)"
 
 [components]
 include = []

@@ -2,7 +2,7 @@
 
 **English** | [中文](#中文)
 
-Catalog entry for **ruby**, the Xiaomi Redmi Note 12 Pro 5G (MediaTek Dimensity 900 / MT6877),
+Catalog entry for **ruby**, the Xiaomi Redmi Note 12 Pro 5G (MediaTek Dimensity 1080 / MT6877),
 running **XNU 8796 + iPhone X iOS 16.7.16 (20H392) userland** from the stock LK bootloader.
 
 > This repository is an identity/catalog entry, not a UniXNU build tree.
@@ -56,7 +56,7 @@ the Apple Public Source License 2.0. See [LICENSE](LICENSE) for the exact text.
 
 ## 中文
 
-**ruby**（Xiaomi Redmi Note 12 Pro 5G，联发科天玑 900 / MT6877）的目录条目，
+**ruby**（Xiaomi Redmi Note 12 Pro 5G，联发科天玑 1080 / MT6877）的目录条目，
 从原厂 LK 直接启动 **XNU 8796 + iPhone X iOS 16.7.16（20H392）用户态**。
 
 > 本仓库只用于目录身份登记，不是 UniXNU 构建树。
